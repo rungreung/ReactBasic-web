@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactBasic-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactBasic-web/static/js/main.619151e8.chunk.js",
+    "main.js.map": "/ReactBasic-web/static/js/main.619151e8.chunk.js.map",
+    "runtime-main.js": "/ReactBasic-web/static/js/runtime-main.0407e823.js",
+    "runtime-main.js.map": "/ReactBasic-web/static/js/runtime-main.0407e823.js.map",
+    "static/js/2.915d211a.chunk.js": "/ReactBasic-web/static/js/2.915d211a.chunk.js",
+    "static/js/2.915d211a.chunk.js.map": "/ReactBasic-web/static/js/2.915d211a.chunk.js.map",
+    "index.html": "/ReactBasic-web/index.html",
+    "precache-manifest.fe70eef2e73c6f3ec48b2b9465d5fbe7.js": "/ReactBasic-web/precache-manifest.fe70eef2e73c6f3ec48b2b9465d5fbe7.js",
+    "service-worker.js": "/ReactBasic-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactBasic-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.915d211a.chunk.js.LICENSE.txt": "/ReactBasic-web/static/js/2.915d211a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactBasic-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0407e823.js",
+    "static/js/2.915d211a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.619151e8.chunk.js"
+  ]
+}
